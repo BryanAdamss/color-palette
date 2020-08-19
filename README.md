@@ -1,4 +1,4 @@
-# @gh/color-palette
+# @ghchu/color-palette
 
 > Generate color palette file with [@ant-design/colors](https://www.npmjs.com/package/@ant-design/colors) algorithm
 
@@ -7,11 +7,11 @@ English | [中文](https://github.com/BryanAdamss/color-palette/blob/master/READ
 ## Install
 
 ```sh
-npm i -D @gh/color-palette
+npm i -D @ghchu/color-palette
 
 or
 
-yarn add @gh/color-palette -D
+yarn add @ghchu/color-palette -D
 ```
 
 ## Usage

@@ -1,4 +1,4 @@
-# @gh/color-palette
+# @ghchu/color-palette
 
 > 读取主色文件，使用[@ant-design/colors](https://www.npmjs.com/package/@ant-design/colors)算法生成色板文件
 
@@ -7,11 +7,11 @@
 ## 安装
 
 ```sh
-npm i -D @gh/color-palette
+npm i -D @ghchu/color-palette
 
 or
 
-yarn add @gh/color-palette -D
+yarn add @ghchu/color-palette -D
 ```
 
 ## 使用
