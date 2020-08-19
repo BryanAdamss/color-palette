@@ -7,14 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
     "release:first": "npm run release --first-release",
-    "pub": "git push --follow-tags origin master && npm publish"
+    "pub": "git push --follow-tags origin master && npm publish --access=public"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BryanAdamss/color-palette.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "GuangHui",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BryanAdamss/color-palette/issues"
@@ -29,5 +29,8 @@
   },
   "devDependencies": {
     "standard-version": "^9.0.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
