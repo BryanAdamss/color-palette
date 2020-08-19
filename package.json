@@ -1,0 +1,27 @@
+{
+  "name": "@gh/color-palette",
+  "version": "1.0.0",
+  "description": "Generate color palette file with @ant-design/colors algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanAdamss/color-palette.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanAdamss/color-palette/issues"
+  },
+  "homepage": "https://github.com/BryanAdamss/color-palette#readme",
+  "dependencies": {
+    "@ant-design/colors": "^4.0.5",
+    "yargs": "^15.4.1"
+  },
+  "bin": {
+    "color-palette": "bin/www"
+  }
+}
