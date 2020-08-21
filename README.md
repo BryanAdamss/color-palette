@@ -16,7 +16,7 @@ yarn add @ghchu/color-palette -D
 
 ## Usage
 
-- This plugin is design for `sass`(sass-first)
+- This plugin is design for `sass(scss)`(scss-first)
 - You need chage the option when you use other preprocessor(`less、stylus、css3 vars`)
 
 ### Basic

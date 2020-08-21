@@ -16,7 +16,7 @@ yarn add @ghchu/color-palette -D
 
 ## 使用
 
-- 此插件以`sass`优先，若你使用其它预先处理器(`less、stylus`)或`css3 vars`你可能需要调整相关配置，具体见配置章节
+- 此插件以`sass(scss)`优先，若你使用其它预先处理器(`less、stylus`)或`css3 vars`你可能需要调整相关配置，具体见配置章节
 
 ### 基础使用
 
