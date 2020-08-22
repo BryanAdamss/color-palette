@@ -1,6 +1,6 @@
 {
   "name": "@ghchu/color-palette",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Generate color palette file with @ant-design/colors algorithm",
   "main": "index.js",
   "scripts": {
