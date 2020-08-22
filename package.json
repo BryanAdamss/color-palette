@@ -13,7 +13,20 @@
     "type": "git",
     "url": "git+https://github.com/BryanAdamss/color-palette.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ant",
+    "ant-design",
+    "ant-design-color",
+    "@ant-design/colors",
+    "color",
+    "palette",
+    "color-palette",
+    "vue",
+    "sass",
+    "scss",
+    "stylus",
+    "less"
+  ],
   "author": "GuangHui",
   "license": "MIT",
   "bugs": {
